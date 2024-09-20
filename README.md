@@ -3,9 +3,13 @@ A Streamlit web application that allows users to download songs, albums, and pla
 
 **🚀 Features**
 Download Songs: Enter a Spotify track URL to download the song.
+
 Download Albums: Enter a Spotify album URL to download all songs in the album.
+
 Download Playlists: Enter a Spotify playlist URL to download all songs in the playlist.
+
 User-Friendly Interface: The app displays cover images and track information in a clean layout.
+
 Progress Indicator: A loading spinner shows the progress while preparing downloads.
 
 
